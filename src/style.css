@@ -1,0 +1,25 @@
+h1, p {
+  font-family: Lato;
+}
+
+.select {
+  color: gray;
+  background-color: white;
+
+}
+
+.show-select{
+  color: gray;
+  background-color: rgb(224, 217, 217);
+  padding: 15px;
+}
+
+.icon{
+  margin-left: 100px;
+  cursor: pointer;
+}
+
+.info{
+  position: bottom;
+  border-radius: 20px;
+}
